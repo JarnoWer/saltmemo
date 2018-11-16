@@ -1,2 +1,2 @@
 # saltmemo
-more salt stuff
+Contains script that makes computer minion to my salt-master.
