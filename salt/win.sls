@@ -4,4 +4,7 @@ win:
       - firefox
       - git
       - libreoffice
-      - vlc
+      - chocolatey
+choco:
+  chocolatey.installed:
+    - name: cygwin
