@@ -1,7 +1,7 @@
 win:
   pkg.installed:
     - pkgs:
-      - firefox
+      - chrome
       - git
       - libreoffice
       - chocolatey
