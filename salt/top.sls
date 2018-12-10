@@ -8,6 +8,7 @@ linux:
     - ssh
     - update
     - git
+    - firefox
 
 master:
   'do*':
